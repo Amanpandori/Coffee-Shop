@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://amandeep33966:HLhAMHJU$J5QD3e@cluster0.swpqe.mongodb.net/coffee_shopDB?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret" : "coffee_secret"
+}
